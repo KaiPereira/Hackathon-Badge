@@ -763,7 +763,7 @@
 		)
 		(fp_line
 			(start 0.800003 -0.400002)
-			(end -0.499998 -0.399999)
+			(end -0.499998 -0.399998)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -772,7 +772,7 @@
 			(uuid "387e3dc4-a09c-4c3d-80b1-720bbda1125e")
 		)
 		(fp_line
-			(start 0.800001 0.399999)
+			(start 0.800001 0.4)
 			(end 0.800003 -0.400002)
 			(stroke
 				(width 0.1)
@@ -782,7 +782,7 @@
 			(uuid "78f89d6b-431c-4453-b1e0-543a775b02e9")
 		)
 		(fp_line
-			(start -0.499998 -0.399999)
+			(start -0.499998 -0.399998)
 			(end -0.8 -0.1)
 			(stroke
 				(width 0.1)
@@ -803,7 +803,7 @@
 		)
 		(fp_line
 			(start -0.800003 0.400002)
-			(end 0.800001 0.399999)
+			(end 0.800001 0.4)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -1334,7 +1334,7 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.485 -0.735001)
+			(start -1.485 -0.735002)
 			(end -1.485001 0.735001)
 			(stroke
 				(width 0.12)
@@ -1345,7 +1345,7 @@
 		)
 		(fp_line
 			(start 0.800001 -0.735)
-			(end -1.485 -0.735001)
+			(end -1.485 -0.735002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -1803,7 +1803,7 @@
 			(uuid "7c90aea3-ff4f-4f49-b177-05bd69db8afb")
 		)
 		(fp_line
-			(start -1.484998 -0.734999)
+			(start -1.484997 -0.734999)
 			(end -1.485003 0.735002)
 			(stroke
 				(width 0.12)
@@ -1814,7 +1814,7 @@
 		)
 		(fp_line
 			(start 0.800003 -0.735001)
-			(end -1.484998 -0.734999)
+			(end -1.484997 -0.734999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2252,7 +2252,7 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.485 -0.735001)
+			(start -1.485 -0.735002)
 			(end -1.485004 0.735003)
 			(stroke
 				(width 0.12)
@@ -2263,7 +2263,7 @@
 		)
 		(fp_line
 			(start 0.800004 -0.735001)
-			(end -1.485 -0.735001)
+			(end -1.485 -0.735002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -3941,7 +3941,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0.000002 -1.17 160)
+			(at 0.000001 -1.17 160)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "53e702b1-9974-4195-aa93-26e33d0db36d")
@@ -3953,7 +3953,7 @@
 			)
 		)
 		(property "Value" "2k"
-			(at -0.000002 1.17 160)
+			(at -0.000001 1.17 160)
 			(layer "F.Fab")
 			(uuid "778b1a33-4cdc-4dd6-b3ab-cb2d8ddefade")
 			(effects
@@ -5598,7 +5598,7 @@
 			(uuid "d6c1612b-3984-4a4c-afc8-bc84d71d9aba")
 		)
 		(fp_line
-			(start -1.484998 -0.734999)
+			(start -1.484997 -0.734999)
 			(end -1.485003 0.735002)
 			(stroke
 				(width 0.12)
@@ -5609,7 +5609,7 @@
 		)
 		(fp_line
 			(start 0.800003 -0.735001)
-			(end -1.484998 -0.734999)
+			(end -1.484997 -0.734999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9512,6 +9512,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12625,6 +12626,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14261,22 +14263,6 @@
 		(uuid "f6245c1e-aad6-4713-a99b-d0ce9de043e4")
 	)
 	(segment
-		(start 155.137505 99.889997)
-		(end 154.510003 99.889997)
-		(width 0.5)
-		(layer "B.Cu")
-		(net "Net-(D1-A)")
-		(uuid "b0c95050-0a08-4965-99fa-9e3ca79cb7d7")
-	)
-	(segment
-		(start 154.510003 99.889997)
-		(end 153.9 100.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net "Net-(D1-A)")
-		(uuid "d54b0c3a-84c4-4bf1-b017-db36a59be915")
-	)
-	(segment
 		(start 140.274794 110.334555)
 		(end 140.940008 109.669341)
 		(width 0.2)
@@ -15047,6 +15033,22 @@
 		(layer "B.Cu")
 		(net "Net-(D13-A)")
 		(uuid "d6fb747b-9b34-4b1a-8b98-353198bdff97")
+	)
+	(segment
+		(start 155.137505 99.889997)
+		(end 154.510003 99.889997)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "Net-(D1-A)")
+		(uuid "b0c95050-0a08-4965-99fa-9e3ca79cb7d7")
+	)
+	(segment
+		(start 154.510003 99.889997)
+		(end 153.9 100.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net "Net-(D1-A)")
+		(uuid "d54b0c3a-84c4-4bf1-b017-db36a59be915")
 	)
 	(segment
 		(start 134.39 81.8)
