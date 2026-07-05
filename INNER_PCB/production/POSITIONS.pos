@@ -1,0 +1,51 @@
+### Footprint positions - created on 2026-07-03T06:12:06 ###
+### Printed by KiCad version 10.0.0-10.0.0~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val           Package                                                 PosX       PosY       Rot  Side
+C3        100nF         C_0402_1005Metric                                   142.2900   -88.6400  180.0000  bottom
+D10       KT-0603Y      LED_0603_1608Metric                                 139.0875  -110.4000    0.0000  bottom
+D11       KT-0603Y      LED_0603_1608Metric                                 144.1875   -98.1000    0.0000  bottom
+D12       KT-0603Y      LED_0603_1608Metric                                 161.2000  -100.9000    0.0000  bottom
+D13       KT-0603Y      LED_0603_1608Metric                                 130.7125   -92.8000    0.0000  bottom
+D14       KT-0603Y      LED_0603_1608Metric                                 130.9875   -98.5000    0.0000  bottom
+D15       KT-0603Y      LED_0603_1608Metric                                 134.6875   -83.0000    0.0000  bottom
+D16       KT-0603Y      LED_0603_1608Metric                                 150.8875   -82.6000    0.0000  bottom
+J1        Conn_01x03    PinHeader_1x03_P2.54mm_Vertical                     146.7400   -84.2000   90.0000  bottom
+J2        Conn_01x02    PinHeader_1x02_P2.54mm_Vertical                     127.4804   -85.7767  -40.0000  bottom
+R1        1k            R_0402_1005Metric                                   140.8000   -89.1100  -90.0000  bottom
+R11       2k            R_0402_1005Metric                                   138.9000  -111.6000    0.0000  bottom
+R12       2k            R_0402_1005Metric                                   144.5100   -96.8000    0.0000  bottom
+R13       2k            R_0402_1005Metric                                   161.3000   -99.6000    0.0000  bottom
+R14       2k            R_0402_1005Metric                                   131.0000   -91.5000    0.0000  bottom
+R15       2k            R_0402_1005Metric                                   131.2000   -97.1000    0.0000  bottom
+R16       2k            R_0402_1005Metric                                   134.9000   -81.8000  180.0000  bottom
+R17       2k            R_0402_1005Metric                                   151.1000   -81.3000  180.0000  bottom
+TP5       TestPoint     TestPoint_Pad_3.0x3.0mm                             144.2000   -73.2000    0.0000  bottom
+TP6       TestPoint     TestPoint_Pad_3.0x3.0mm                             144.2000  -120.2000    0.0000  bottom
+TP7       TestPoint     TestPoint_Pad_3.0x3.0mm                             120.7000   -96.7000    0.0000  bottom
+TP8       TestPoint     TestPoint_Pad_3.0x3.0mm                             167.7000   -96.7000    0.0000  bottom
+U2        CH32V003FxUx  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm_ThermalVias   144.3900   -90.8900    0.0000  bottom
+D1        KT-0603Y      LED_0603_1608Metric                                 129.3875   -91.3000    0.0000  top
+D2        KT-0603Y      LED_0603_1608Metric                                 151.6000   -81.0000    0.0000  top
+D3        KT-0603Y      LED_0603_1608Metric                                 156.5000   -89.2000    0.0000  top
+D4        KT-0603Y      LED_0603_1608Metric                                 127.7125   -94.7000    0.0000  top
+D5        KT-0603Y      LED_0603_1608Metric                                 135.3000  -111.2000    0.0000  top
+D6        KT-0603Y      LED_0603_1608Metric                                 146.8000  -111.4000    0.0000  top
+D7        KT-0603Y      LED_0603_1608Metric                                 154.2875   -94.1000    0.0000  top
+D8        KT-0603Y      LED_0603_1608Metric                                 138.5875   -81.6000    0.0000  top
+D9        KT-0603Y      LED_0603_1608Metric                                 139.2875   -99.8000    0.0000  top
+R2        2k            R_0402_1005Metric                                   126.4000   -91.4000   90.0000  top
+R3        2k            R_0402_1005Metric                                   153.8000   -81.3000   90.0000  top
+R4        2k            R_0402_1005Metric                                   156.4100   -90.6000    0.0000  top
+R5        2k            R_0402_1005Metric                                   127.8100   -96.1000    0.0000  top
+R6        2k            R_0402_1005Metric                                   136.0100  -112.6000  180.0000  top
+R7        2k            R_0402_1005Metric                                   146.9100  -112.8000    0.0000  top
+R8        2k            R_0402_1005Metric                                   156.6000   -95.5000   90.0000  top
+R9        2k            R_0402_1005Metric                                   138.6100   -83.1000    0.0000  top
+R10       2k            R_0402_1005Metric                                   139.5100  -101.1000    0.0000  top
+TP1       TestPoint     TestPoint_Pad_3.0x3.0mm                             120.7000   -96.7000    0.0000  top
+TP2       TestPoint     TestPoint_Pad_3.0x3.0mm                             144.2000  -120.2000    0.0000  top
+TP3       TestPoint     TestPoint_Pad_3.0x3.0mm                             144.2000   -73.2000    0.0000  top
+TP4       TestPoint     TestPoint_Pad_3.0x3.0mm                             167.7000   -96.7000    0.0000  top
+## End
