@@ -6,3 +6,7 @@ These are alchemical, cosmological, PCB hackathon badges I designed in a day for
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/989c6c31-d4f2-4696-b423-e04b1855f972" />
 <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/bc7d7484-5191-41c4-9071-a6032ee697bd" />
 <img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/b0008b2a-7291-4c0b-8e71-e7d3ae4cc952" />
+
+## Manufacturing
+
+If you're bored and want to manufacture the boards, all of their production files are in their relative folder. I'd suggest getting the boards from JLCPCB with ENIG, and then buying the components from LCSC and hand soldering! 
