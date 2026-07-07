@@ -10,3 +10,5 @@ These are alchemical, cosmological, PCB hackathon badges I designed in a day for
 ## Manufacturing
 
 If you're bored and want to manufacture the boards, all of their production files are in their relative folder. I'd suggest getting the boards from JLCPCB with ENIG, and then buying the components from LCSC and hand soldering! 
+
+All the design files are also open-source if you want to make modifications so that they're unique to you, so just go crazy!!
